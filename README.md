@@ -13,7 +13,7 @@ MethodSignature is a C# library that provides a simple and convenient way to ext
 
 ## Getting Started
 To get started with MethodSignature, follow these simple steps:
-1. Install the MethodSignature package from NuGet (Coming soon).
+1. Install the MethodSignature package from [NuGet](https://www.nuget.org/packages/MethodSignature).
 2. Import the MethodSignature namespace in your C# file.
     ```csharp
     using MethodSignature;
